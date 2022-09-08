@@ -1,0 +1,10 @@
+Perceptron/model
+Perceptron/plots
+Perceptron/.jovianrc
+*.ipynb_checkpoints
+400-bird-species/
+output/
+.jovianrc
+brain_tumor_dataset/
+conv_net.png
+vintage_car.jpg
